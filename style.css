@@ -8,6 +8,20 @@ header{
     font-weight: bold;
     margin-top: 50px;
 }
-.home, .bio, .projects{
+.portfolio, .home, .bio, .projects, .contact-info{
     font-size: 20px;
+    background-color:rgb(158, 157, 157);
+}
+
+h1{
+    background-color:rgb(83, 83, 83);
+}
+
+p{
+    background-color:rgb(83, 83, 83);
+}
+
+
+ul{
+    background-color:rgb(83, 83, 83);
 }
