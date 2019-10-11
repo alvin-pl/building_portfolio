@@ -10,18 +10,18 @@ header{
 }
 .portfolio, .home, .bio, .projects, .contact-info{
     font-size: 20px;
-    background-color:rgb(158, 157, 157);
+    background-color:rgb(214, 214, 214);
 }
 
 h1{
-    background-color:rgb(83, 83, 83);
+    background-color:rgb(158, 158, 158);
 }
 
 p{
-    background-color:rgb(83, 83, 83);
+    background-color:rgb(158, 158, 158);
 }
 
 
 ul{
-    background-color:rgb(83, 83, 83);
+    background-color:rgb(158, 158, 158);
 }
